@@ -1,4 +1,4 @@
-#Grbl modified to be used as a lazer
+# Grbl modified to be used as a lazer
 
 - Defaults have been set
 - Homing
