@@ -1,2 +1,2 @@
 # :U:P:P_Lazer
-This might be a lazer, dont know, a blinding light doesnt let me see it.
+This might be a lazer, don't know, a blinding light doesn't let me see it.
