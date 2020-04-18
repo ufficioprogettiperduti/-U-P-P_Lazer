@@ -1,5 +1,5 @@
 # Grbl modified to be used as a lazer
-
+* This is for arduino uno + cnc shield *
 - Defaults have been set
 - Homing
 - Homing in the positive domain
