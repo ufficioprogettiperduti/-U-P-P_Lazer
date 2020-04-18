@@ -1,0 +1,7 @@
+#Grbl modified to be used as a lazer
+
+- Defaults have been set
+- Homing
+- Homing in the positive domain
+- Pwm at around 7.8khz
+- dont remember
